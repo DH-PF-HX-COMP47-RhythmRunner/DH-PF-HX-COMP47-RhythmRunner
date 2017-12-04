@@ -11,6 +11,7 @@ Hongyou (Folder): Codes that Hongyou created.
 Rhythm Runner (Folder): Unity Package FIles
 To Install (Folder): Windows, Mac, and Web Installation
 UML Diagrams (Folder): Full UML Diagrams
+Source Code (Folder): Full Source Code Documentation
 DH-PF-HX-467 Contributions Lists
 DH-PF-HX-467 Final Paper
 DH-PF-HX-467 First Draft

@@ -19,6 +19,17 @@ DH-PF-HX-467 UML PPT
 README.txt
 
 -----------------------------------------------------------------------------
+Installation and Run Instructions
+
+Click on the folder "To Install" 
+Click and choose one of the following platforms you want to download on (Mac, Windows, or Web GL)
+Download the ZIP file
+Unzip the folder. 
+Open the new folder that has been unzipped
+Open the applications that says "Rhythm Runner" 
+Run Game
+
+-----------------------------------------------------------------------------
 Synopsis
 
 Rhythm Runner was a game created by a group of students named Paul Fussell, Hongyou Xiong, and Dillon Hour. This game combines multiple game genres together such as the 2D platformer game, and endless runner style game. The tools used to created this game was Unity's game platform, as well as some free assets that were retrieved on the web. Scripts and codes were written in C# and followed a strict coding guideline to keeps things uniformly. The main focus for this game was not only to combine multiple genres in one game, but also to implement music and sounds as well. Additionally, sound frequencies will be effected according to the players mvoements.
@@ -40,11 +51,6 @@ Firefox
 Microsoft Edge
 Safari
 Internet Explorer
-
------------------------------------------------------------------------------
-Installation and Run Instructions
-
-Download
 
 -----------------------------------------------------------------------------
 Contributors
